@@ -1,0 +1,476 @@
+  /*
+    Flaticon icon font: Flaticon
+    Creation date: 07/09/2022 00:19
+*/
+
+@font-face {
+    font-family: "flaticon";
+    src: url("../fonts/flaticon.eot");
+    src: url("../fonts/flaticon.eot?#iefix") format("embedded-opentype"),
+            url("../fonts/flaticon.woff") format("woff"),
+            url("../fonts/flaticon.ttf") format("truetype"),
+            url("../fonts/flaticon.svg#flaticon") format("svg");
+    font-weight: normal;
+    font-style: normal;
+    }
+    
+    @media screen and (-webkit-min-device-pixel-ratio:0) {
+    @font-face {
+        font-family: "flaticon";
+        src: url("./flaticon.svg#flaticon") format("svg");
+    }
+    }
+    
+    [class^="flaticon-"]:before, [class*=" flaticon-"]:before,
+    [class^="flaticon-"]:after, [class*=" flaticon-"]:after {   
+    font-family: flaticon;
+    speak: none;
+    font-style: normal;
+    font-weight: normal;
+    font-variant: normal;
+    text-transform: none;
+    line-height: 1;
+    
+    /* Better Font Rendering =========== */
+    -webkit-font-smoothing: antialiased;
+    -moz-osx-font-smoothing: grayscale;
+}
+
+.flaticon-sprout:before {
+    content: "\f101";
+}
+.flaticon-tractor:before {
+    content: "\f102";
+}
+.flaticon-agriculture:before {
+    content: "\f103";
+}
+.flaticon-agriculture-1:before {
+    content: "\f104";
+}
+.flaticon-tractor-1:before {
+    content: "\f105";
+}
+.flaticon-vegetation:before {
+    content: "\f106";
+}
+.flaticon-farming-and-gardening:before {
+    content: "\f107";
+}
+.flaticon-growth:before {
+    content: "\f108";
+}
+.flaticon-fertilizer:before {
+    content: "\f109";
+}
+.flaticon-harvest:before {
+    content: "\f10a";
+}
+.flaticon-planting:before {
+    content: "\f10b";
+}
+.flaticon-tractor-2:before {
+    content: "\f10c";
+}
+.flaticon-tractor-3:before {
+    content: "\f10d";
+}
+.flaticon-seed-bag:before {
+    content: "\f10e";
+}
+.flaticon-sprayer:before {
+    content: "\f10f";
+}
+.flaticon-field:before {
+    content: "\f110";
+}
+.flaticon-chemicals:before {
+    content: "\f111";
+}
+.flaticon-planting-1:before {
+    content: "\f112";
+}
+.flaticon-tractor-4:before {
+    content: "\f113";
+}
+.flaticon-farmer:before {
+    content: "\f114";
+}
+.flaticon-vegetables:before {
+    content: "\f115";
+}
+.flaticon-growing-plant:before {
+    content: "\f116";
+}
+.flaticon-cow:before {
+    content: "\f117";
+}
+.flaticon-crop:before {
+    content: "\f118";
+}
+.flaticon-leaf:before {
+    content: "\f119";
+}
+.flaticon-duck:before {
+    content: "\f11a";
+}
+.flaticon-field-1:before {
+    content: "\f11b";
+}
+.flaticon-silo:before {
+    content: "\f11c";
+}
+.flaticon-drone:before {
+    content: "\f11d";
+}
+.flaticon-plant:before {
+    content: "\f11e";
+}
+.flaticon-smart-farm:before {
+    content: "\f11f";
+}
+.flaticon-tractor-5:before {
+    content: "\f120";
+}
+.flaticon-product:before {
+    content: "\f121";
+}
+.flaticon-sprout-1:before {
+    content: "\f122";
+}
+.flaticon-promotion:before {
+    content: "\f123";
+}
+.flaticon-wheelbarrow:before {
+    content: "\f124";
+}
+.flaticon-planet-earth:before {
+    content: "\f125";
+}
+.flaticon-pesticide:before {
+    content: "\f126";
+}
+.flaticon-wheat:before {
+    content: "\f127";
+}
+.flaticon-garden:before {
+    content: "\f128";
+}
+.flaticon-weigh-scale:before {
+    content: "\f129";
+}
+.flaticon-tractor-6:before {
+    content: "\f12a";
+}
+.flaticon-greenhouse:before {
+    content: "\f12b";
+}
+.flaticon-raining:before {
+    content: "\f12c";
+}
+.flaticon-pumpkins:before {
+    content: "\f12d";
+}
+.flaticon-farmer-1:before {
+    content: "\f12e";
+}
+.flaticon-farmhouse:before {
+    content: "\f12f";
+}
+.flaticon-corn:before {
+    content: "\f130";
+}
+.flaticon-seeds:before {
+    content: "\f131";
+}
+.flaticon-gardening-tools:before {
+    content: "\f132";
+}
+.flaticon-shallot:before {
+    content: "\f133";
+}
+.flaticon-carrot:before {
+    content: "\f134";
+}
+.flaticon-tractor-7:before {
+    content: "\f135";
+}
+.flaticon-broccoli:before {
+    content: "\f136";
+}
+.flaticon-corn-1:before {
+    content: "\f137";
+}
+.flaticon-production:before {
+    content: "\f138";
+}
+.flaticon-rice:before {
+    content: "\f139";
+}
+.flaticon-silo-1:before {
+    content: "\f13a";
+}
+.flaticon-chain-saw:before {
+    content: "\f13b";
+}
+.flaticon-cow-1:before {
+    content: "\f13c";
+}
+.flaticon-food:before {
+    content: "\f13d";
+}
+.flaticon-wind-farm:before {
+    content: "\f13e";
+}
+.flaticon-farm:before {
+    content: "\f13f";
+}
+.flaticon-cow-2:before {
+    content: "\f140";
+}
+.flaticon-house:before {
+    content: "\f141";
+}
+.flaticon-field-2:before {
+    content: "\f142";
+}
+.flaticon-farming-tools:before {
+    content: "\f143";
+}
+.flaticon-farmer-2:before {
+    content: "\f144";
+}
+.flaticon-farm-1:before {
+    content: "\f145";
+}
+.flaticon-turbine:before {
+    content: "\f146";
+}
+.flaticon-cattle:before {
+    content: "\f147";
+}
+.flaticon-wind-farm-1:before {
+    content: "\f148";
+}
+.flaticon-poultry:before {
+    content: "\f149";
+}
+.flaticon-cow-3:before {
+    content: "\f14a";
+}
+.flaticon-tank:before {
+    content: "\f14b";
+}
+.flaticon-farmer-3:before {
+    content: "\f14c";
+}
+.flaticon-duck-1:before {
+    content: "\f14d";
+}
+.flaticon-solar-panel:before {
+    content: "\f14e";
+}
+.flaticon-sheep:before {
+    content: "\f14f";
+}
+.flaticon-rooster:before {
+    content: "\f150";
+}
+.flaticon-dairy-products:before {
+    content: "\f151";
+}
+.flaticon-tractor-8:before {
+    content: "\f152";
+}
+.flaticon-tools:before {
+    content: "\f153";
+}
+.flaticon-tank-1:before {
+    content: "\f154";
+}
+.flaticon-support:before {
+    content: "\f155";
+}
+.flaticon-solar-panel-1:before {
+    content: "\f156";
+}
+.flaticon-rice-1:before {
+    content: "\f157";
+}
+.flaticon-silo-2:before {
+    content: "\f158";
+}
+.flaticon-farm-products:before {
+    content: "\f159";
+}
+.flaticon-dog:before {
+    content: "\f15a";
+}
+.flaticon-animal:before {
+    content: "\f15b";
+}
+.flaticon-smart-farm-1:before {
+    content: "\f15c";
+}
+.flaticon-farming:before {
+    content: "\f15d";
+}
+.flaticon-farmer-4:before {
+    content: "\f15e";
+}
+.flaticon-farm-2:before {
+    content: "\f15f";
+}
+.flaticon-bee:before {
+    content: "\f160";
+}
+.flaticon-house-1:before {
+    content: "\f161";
+}
+.flaticon-sheep-1:before {
+    content: "\f162";
+}
+.flaticon-water-well:before {
+    content: "\f163";
+}
+.flaticon-farm-house:before {
+    content: "\f164";
+}
+.flaticon-beehive:before {
+    content: "\f165";
+}
+.flaticon-pig:before {
+    content: "\f166";
+}
+.flaticon-farm-products-1:before {
+    content: "\f167";
+}
+.flaticon-milk:before {
+    content: "\f168";
+}
+.flaticon-bees:before {
+    content: "\f169";
+}
+.flaticon-smart-farm-2:before {
+    content: "\f16a";
+}
+.flaticon-windmill:before {
+    content: "\f16b";
+}
+.flaticon-restaurant:before {
+    content: "\f16c";
+}
+.flaticon-salad:before {
+    content: "\f16d";
+}
+.flaticon-fast-food:before {
+    content: "\f16e";
+}
+.flaticon-fruit:before {
+    content: "\f16f";
+}
+.flaticon-vegetable:before {
+    content: "\f170";
+}
+.flaticon-salad-1:before {
+    content: "\f171";
+}
+.flaticon-vegetable-1:before {
+    content: "\f172";
+}
+.flaticon-healthy-food:before {
+    content: "\f173";
+}
+.flaticon-broccoli-1:before {
+    content: "\f174";
+}
+.flaticon-broccoli-2:before {
+    content: "\f175";
+}
+.flaticon-vegetables-1:before {
+    content: "\f176";
+}
+.flaticon-tomato:before {
+    content: "\f177";
+}
+.flaticon-cabbage:before {
+    content: "\f178";
+}
+.flaticon-salad-2:before {
+    content: "\f179";
+}
+.flaticon-peas:before {
+    content: "\f17a";
+}
+.flaticon-colander:before {
+    content: "\f17b";
+}
+.flaticon-vegetable-oil:before {
+    content: "\f17c";
+}
+.flaticon-onion:before {
+    content: "\f17d";
+}
+.flaticon-grape:before {
+    content: "\f17e";
+}
+.flaticon-garlic:before {
+    content: "\f17f";
+}
+.flaticon-cabbage-1:before {
+    content: "\f180";
+}
+.flaticon-vegetables-2:before {
+    content: "\f181";
+}
+.flaticon-tomato-1:before {
+    content: "\f182";
+}
+.flaticon-lettuce:before {
+    content: "\f183";
+}
+.flaticon-potato:before {
+    content: "\f184";
+}
+.flaticon-boiled-egg:before {
+    content: "\f185";
+}
+.flaticon-bell-pepper:before {
+    content: "\f186";
+}
+.flaticon-grain:before {
+    content: "\f187";
+}
+.flaticon-mortar:before {
+    content: "\f188";
+}
+.flaticon-honey:before {
+    content: "\f189";
+}
+.flaticon-honey-1:before {
+    content: "\f18a";
+}
+.flaticon-honeycomb:before {
+    content: "\f18b";
+}
+.flaticon-apitherapy:before {
+    content: "\f18c";
+}
+.flaticon-apple:before {
+    content: "\f18d";
+}
+.flaticon-dairy-products-1:before {
+    content: "\f18e";
+}
+.flaticon-milk-1:before {
+    content: "\f18f";
+}
+.flaticon-sausages:before {
+    content: "\f190";
+}
+.flaticon-sour-cream:before {
+    content: "\f191";
+}
+.flaticon-milk-tank:before {
+    content: "\f192";
+}
